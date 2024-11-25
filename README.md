@@ -1,1 +1,2 @@
-Hello, over the years I've made a few thing but never uploaded them to github; maybe I'll get around to it.
+Check out my project showcase:
+https://midorimonki.github.io/Portfolio/
