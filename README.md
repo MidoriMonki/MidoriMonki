@@ -1,3 +1,3 @@
 Check out my project showcase
 -
-https://izaac-murray.com
+https://izaacmurray.com
